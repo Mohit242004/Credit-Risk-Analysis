@@ -203,7 +203,7 @@ Credit-Risk-Assessment-EDA/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Credit-Risk-Assessment-EDA.git
+git clone https://github.com/Mohit242004/Credit-Risk-Assessment-EDA.git
 ```
 
 ### Install Dependencies
