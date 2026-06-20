@@ -242,7 +242,7 @@ These insights can assist financial institutions in making informed lending deci
 
 📊 Aspiring Data Analyst | Data Science Enthusiast
 
-🔗 LinkedIn: [www.linkedin.com/in/mohit-chaudhari-541463254](https://www.linkedin.com/in/mohit-chaudhari-028301259/)
+🔗 LinkedIn: https://www.linkedin.com/in/mohit-chaudhari-028301259
 
 🔗 GitHub: https://github.com/Mohit242004
 
